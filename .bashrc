@@ -21,3 +21,4 @@ elif [[ $USER == gab ]]; then
 else
 	PS1='\[\e[32m\]\u\[\e[0m\]@\[\e[34m\]\h \[\e[33m\]\w\[\e[0m\]\n$ '
 fi
+export GPG_TTY=$(tty)
