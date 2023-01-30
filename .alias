@@ -11,3 +11,4 @@ alias la='ls -a --color'
 alias ll='ls -alFh --color'
 alias lr='ls -alFhR --color'
 alias sl='sl -alFe'
+
